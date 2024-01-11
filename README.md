@@ -26,7 +26,7 @@ CausalDataset，因果事件对，基于非结构化新闻网页文本中进行�
 像素摄像头镶嵌屏幕上方@视频聊天方便     14
 元件多通道读取方式@拍速度可达张 13
 很明亮物体@垂直拖尾现象出现     13
-``
+```
 
 ## 关于我们
 If any question about the project or me ,see https://liuhuanyong.github.io/.  
